@@ -1,0 +1,1 @@
+# LabSW3_AdapterPattern
